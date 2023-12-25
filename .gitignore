@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Article.Api/.config
+/Article.Api/Properties/ServiceDependencies/ArticleAPI-nirmod - Web Deploy
+/Article.Api/Properties/serviceDependencies.ArticleAPI-nirmod - Web Deploy.json
+/Article.Api/Properties/serviceDependencies.json
+/Writer.Api/.config
+/Writer.Api/Properties/ServiceDependencies/WriterApi20231223214928 - Web Deploy
+/Writer.Api/Properties/serviceDependencies.WriterApi20231223214928 - Web Deploy.json
+/Writer.Api/Properties/serviceDependencies.json
